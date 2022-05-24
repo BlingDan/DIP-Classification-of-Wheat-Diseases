@@ -1,0 +1,4 @@
+
+shuffle = True
+#batch_size = 16
+在卷积层中添加	model.add(layers.Dropout(0.5))
